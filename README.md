@@ -1,4 +1,4 @@
-# github-meta
+# gighub-meta
 All the github things
 
 I use this repo to track some personal github related things.
